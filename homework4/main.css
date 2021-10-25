@@ -15,13 +15,14 @@
 }
 .second {
     height: 300px;
-    background: gray;
     margin-top: 5px;
     display: flex;
+    column-gap: 5px;
 
 }
 .second1 {
     width: 70%;
+    background: gray;
     margin-top: 5px;
     border: 5px;
     column-gap: 5px;
@@ -30,9 +31,11 @@
 }
 .second2 {
     width: 30%;
+    background: gray;
     flex-grow: 1;
     margin-top: 5px;
     border: 5px;
+    column-gap: 5px;
 
 }
 
